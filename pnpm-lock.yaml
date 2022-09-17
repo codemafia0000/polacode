@@ -1,0 +1,19 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@types/node': ^11.12.0
+  '@types/vscode': ^1.32.0
+
+devDependencies:
+  '@types/node': 11.15.54
+  '@types/vscode': 1.71.0
+
+packages:
+
+  /@types/node/11.15.54:
+    resolution: {integrity: sha512-1RWYiq+5UfozGsU6MwJyFX6BtktcT10XRjvcAQmskCtMcW3tPske88lM/nHv7BQG1w9KBXI1zPGuu5PnNCX14g==}
+    dev: true
+
+  /@types/vscode/1.71.0:
+    resolution: {integrity: sha512-nB50bBC9H/x2CpwW9FzRRRDrTZ7G0/POttJojvN/LiVfzTGfLyQIje1L1QRMdFXK9G41k5UJN/1B9S4of7CSzA==}
+    dev: true
